@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rameshbandari26" alt="rameshbandari26" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RameshBandari26" alt="rameshbandari26" />
 </p>
 
 - 🔭 I’m currently working on **[ChatApp](https://github.com/RameshBandari26/ChatApp)**  
