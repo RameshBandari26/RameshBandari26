@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RameshBandari26" alt="rameshbandari26" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rameshbandari26&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
 
 - 🔭 I’m currently working on **[ChatApp](https://github.com/RameshBandari26/ChatApp)**  
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://rameshbandari.netlify.app/)**  
