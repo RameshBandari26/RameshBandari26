@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rameshbandari26&label=Profile%20views&color=0e75b6&style=flat" alt="rameshbandari26" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rameshbandari26&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 
 - 🔭 I’m currently working on **[ChatApp](https://github.com/RameshBandari26/ChatApp)**  
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://rameshbandari.netlify.app/)**  
