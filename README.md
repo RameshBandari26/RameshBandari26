@@ -60,9 +60,13 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshbandari26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RameshBandari26&layout=compact&theme=tokyonight&cache_seconds=1800"
+       alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshbandari26&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=RameshBandari26&show_icons=true&theme=tokyonight&cache_seconds=1800"
+       alt="GitHub Stats" />
 </p>
